@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>FuntionalExtensionsCsharp</id>
+    <version>$version$</version>
+    <authors>Barld Boot</authors>
+    <owners>Barld Boot</owners>
+    <description></description>
+  </metadata>
+</package>
