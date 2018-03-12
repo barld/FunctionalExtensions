@@ -5,6 +5,8 @@
     <Authors>Barld Boot</Authors>
     <Product>libary</Product>
     <PackageId>FunctionalExtensionsCsharp</PackageId>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
 </Project>
