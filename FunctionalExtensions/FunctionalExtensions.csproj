@@ -6,7 +6,7 @@
     <Product>libary</Product>
     <PackageId>FunctionalExtensionsCsharp</PackageId>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
-    <Version>1.0.2</Version>
+    <Version>$version$</Version>
   </PropertyGroup>
 
 </Project>
