@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Extensions.Functional
+namespace FunctionalExtensions
 {
     public static class ThenExtensions
     {

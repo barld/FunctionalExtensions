@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Extensions.Functional
+namespace FunctionalExtensions
 {
     public static class ComposeExtensions
     {
